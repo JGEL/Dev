@@ -1,0 +1,8 @@
+- [x] Seleccionar una plantilla de sitio estático (React).
+- [x] Convertir los archivos Markdown a formato HTML.
+- [x] Corregir incompatibilidades y migrar a React puro (rutas, componentes).
+- [x] Diseñar e implementar la estructura y el diseño del sitio web (parcialmente completado con Layout/Navbar).
+- [x] Integrar todas las secciones de contenido en el sitio web (completado con App.tsx y páginas).
+- [x] Probar y validar el sitio web localmente.
+- [x] Desplegar el sitio web de forma permanente.
+- [x] Notificar al usuario y proporcionar la URL permanente.
